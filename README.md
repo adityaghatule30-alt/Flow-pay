@@ -1,32 +1,35 @@
-# 🚀 Coming Soon
+# 💳 Flow Pay
 
-> **Something awesome is on the way.**
+### 🚀 A smarter, simpler payment experience — Coming Soon.
 
-This project is currently under development.  
-We're working behind the scenes to bring you something fresh, useful, and exciting. 🔥
+Flow Pay is a modern payment platform currently under development, focused on making digital payments simple, smooth, and easy to manage.
 
-## 🛠️ Status
+## 🚧 Coming Soon
 
-**🚧 Coming Soon**
+We're currently working on Flow Pay and polishing the experience before launch.
 
-The project is actively being developed and polished.
+### ✨ What's Coming
 
-## ✨ What's Coming
+- 💳 Seamless payment experience
+- 💰 Payment & transaction management
+- 📊 Transaction tracking
+- 🔐 Secure payment processing
+- ⚡ Fast and modern interface
+- 📱 Responsive design
+- 🛠️ More features coming soon
 
-- 🚀 New features
-- 🎨 Modern & polished UI
-- ⚡ Fast and smooth experience
-- 🔒 Reliable & secure functionality
-- 🧩 More features to be revealed
+## 📌 Current Status
 
-## 📅 Release
+**🚧 UNDER DEVELOPMENT**
 
-**Coming Soon...**
+Flow Pay is not publicly available yet.
 
-Stay tuned for updates!
+> **Something better is flowing your way. 🌊**
 
 ---
 
-### 💙 Made with passion
+### 💙 Flow Pay
 
-© 2026 — All rights reserved.
+**Payments. Simplified.**
+
+© 2026 Flow Pay
